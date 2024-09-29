@@ -12,6 +12,7 @@ public class BankAccount {
         return balance;
     }
 
+
     // Method to deposit money
     public void deposit(double amount) {
         if (amount > 0) {
